@@ -1,0 +1,22 @@
+.menu {
+    overflow: hidden;
+    background-color:#FFD400;
+    font-family: Arial;
+}
+ 
+.menu a {
+    float:left;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.menu a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(0, 102, 255);
+    color: black;
+}
+
+.banner{
+    
+}
